@@ -1,3 +1,4 @@
+package inheri;
 class Person {
     void displayInfo() {
         System.out.println("This is a person");
@@ -34,3 +35,4 @@ public class Academic_multi {
         g.submitThesis();   
     }
 }
+
