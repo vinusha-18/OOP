@@ -42,7 +42,7 @@ package basicjavaprograms;
 	}
 
 
-	public class Hierarchy {
+	public class TASK4 {
 	    public static void main(String[] args) {
 	        person a = new Admin("Sita");
 	        person b = new Stud("Ram");
@@ -51,4 +51,5 @@ package basicjavaprograms;
 	        b.over();
 	        c.over();
 	    }
+
 	}
