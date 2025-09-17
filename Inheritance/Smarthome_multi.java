@@ -1,3 +1,4 @@
+package inheri;
 class Appliance {
     void turnOn() {
         System.out.println("Appliance is now ON.");
@@ -30,3 +31,4 @@ public class Smarthome_multi {
 	        c.turnOff();   
 	    }
 }
+
