@@ -1,3 +1,4 @@
+package inheri;
 class Vehicle {
     void move() {
         System.out.println("The vehicle is moving");
@@ -18,3 +19,4 @@ public class Vehicle_single {
 	    }
 	
 }
+
